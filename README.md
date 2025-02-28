@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I’m Oqaisa! 👋
 
-<!--
-**oqaisa/oqaisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏠 **From:** Germany, 17 years old  
+💻 **Passionate about coding**, especially in Python & C++  
+🚀 **Currently working on:**
+  - 🛠 Ariseware CS2 External Cheat
+  - 🔌 Ariseware DLL Injector
+  - 🔄 More tools & projects coming soon!
 
-Here are some ideas to get you started:
+🎯 **Interested in:**
+  - Reverse engineering & game hacking
+  - Low-level programming & memory manipulation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **Always learning new techniques and improving my skills**  
+🤝 **Open to collaboration & knowledge sharing**
+
+Let’s build something awesome together! 🚀
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oqaisa&show_icons=true&theme=tokyonight)
