@@ -1,6 +1,6 @@
 # Hey, I’m Oqaisa! 👋
 
-🏠 **From:** Germany, 17 years old  
+🏠 **From:** Germany, 18 years old  
 💻 **Passionate about coding**, especially in Python & C++  
 🚀 **Currently working on:**
   - 🛠 Ariseware CS2 External Cheat
