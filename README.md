@@ -1,14 +1,12 @@
 # Hey, I’m Oqaisa! 👋
 
 🏠 **From:** Germany, 18 years old  
-💻 **Passionate about coding**, especially in Python & C++  
+💻 **Passionate about coding**, especially in Python & C++
 🚀 **Currently working on:**
-  - 🛠 Ariseware CS2 External Cheat
-  - 🔌 Ariseware DLL Injector
-  - 🔄 More tools & projects coming soon!
+  - 🛠 MySQL Driver in Java
+ 
 
 🎯 **Interested in:**
-  - Reverse engineering & game hacking
   - Low-level programming & memory manipulation
 
 📚 **Always learning new techniques and improving my skills**  
