@@ -1,7 +1,7 @@
 # Hey, I’m Oqaisa! 👋
 
 🏠 **From:** Germany, 18 years old  
-💻 **Passionate about coding**, especially in Python & C++ 
+💻 **Passionate about coding**
 
 🚀 **Currently working on:**
   - 🛠 MySQL Driver in Java
