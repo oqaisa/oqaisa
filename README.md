@@ -3,12 +3,6 @@
 🏠 **From:** Germany, 18 years old  
 💻 **Passionate about coding**
 
-🚀 **Currently working on:**
-  - 🛠 MySQL Driver in Java
- 
-
-🎯 **Interested in:**
-  - Low-level programming & memory manipulation
 
 📚 **Always learning new techniques and improving my skills**  
 🤝 **Open to collaboration & knowledge sharing**
